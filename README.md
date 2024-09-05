@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ashiph Ali
 - 👀 I’m interested to work as PHP Developer
-- 🌱 I’m currently learning Codeugniter 4 whis is php Fremwork
+- 🌱 I’m currently learning Codeigniter 4 which is php Fremwork .
 
 
 <!---
