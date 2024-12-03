@@ -1,9 +1,1 @@
-- 👋 Hi, I’m Ashiph Ali
-- 👀 I’m interested to work as PHP Developer
-- 🌱 I’m currently learning Codeigniter 4 which is php Fremwork .
-
-
-<!---
-MAlik-0786/MAlik-0786 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Recent Computer Science graduate with a strong foundation in software development and programming principles across multiple platforms. Adept at problem-solving and committed to continuous learning and professional development. Seeking an entry-level position to leverage my skills and contribute to a dynamic team.
